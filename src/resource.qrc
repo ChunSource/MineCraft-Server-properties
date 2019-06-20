@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/1.jpg</file>
+        <file>resource/2.jpg</file>
+        <file>resource/exit.ico</file>
+        <file>resource/timg.jpg</file>
+    </qresource>
+</RCC>
